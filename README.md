@@ -41,3 +41,4 @@ The main components of the code include:
 4. Compile the code using a command like:
    ```bash
    g++ -o median_filter testing_filter_code.cpp `pkg-config --cflags --libs opencv4`
+![image](https://github.com/user-attachments/assets/f17d0832-31bf-4c2c-bbfb-2a1ce6cae4fb)
