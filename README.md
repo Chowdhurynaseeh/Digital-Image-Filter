@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f17d0832-31bf-4c2c-bbfb-2a1ce6cae4fb)
+
 # Digital Image Processing - RAW Image Median Filter
 
 This project implements a median filter for processing raw RGB images using C++. The code reads a raw image file, applies a median filter with varying filter sizes, and saves the filtered images back to disk.
